@@ -8,7 +8,7 @@ Estudante e entusiasta de **Análise de Dados**, focado em transformar massas de
 ### 🛠️ Tecnologias & Ferramentas
 - **Linguagens & Consulta:** Python (Pandas, NumPy), SQL (MySQL)
 - **Visualização & BI:** Power BI (Power Query, DAX), Microsoft Excel
-- **Versionamento & Ferramentas:** Git, GitHub, Linux (Kali)
+- **Versionamento & Ferramentas:** Git, GitHub, Linux (Kali) 
 
 ---
 
