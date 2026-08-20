@@ -16,7 +16,7 @@ Estudante e entusiasta de **Análise de Dados**, focado em transformar massas de
 - 📊 **[Análise de Vendas PS4](https://github.com/marckhoodmay/analise_vendasps4):** Dashboard executivo em Power BI com tratamento de escala e ETL via Power Query.
 - 🐍 **[E-Commerce Delay Analysis](https://github.com/marckhoodmay/analise_pedidos_atrasados):** Investigação de taxas de atraso em entregas utilizando Python e Pandas.
 - 🗄️ **[Análise de Rotatividade (Churn)](https://github.com/marckhoodmay/Analise_rotatibilidade_sql):** Queries avançadas em SQL para identificação de causas de desligamento.
-
+* 📊 [Análise Olist Dashboard](https://github.com/marckhoodmay/Analise_olist_dashboard): Dashboard analítico e tratamento de dados de logística e e-commerce com Python, SQL e Power BI.
 ---
 
 📫 **Contate-me:**
